@@ -1,0 +1,100 @@
+{
+  "college_faqs": [
+    {
+      "keywords": ["college", "kkwagh", "kkwieer"],
+      "answer": "KK Wagh Institute of Engineering Education and Research (KKWIEER) is a reputed engineering college in Nashik affiliated with Savitribai Phule Pune University."
+    },
+    {
+      "keywords": ["location", "campus", "where"],
+      "answer": "The campus is located in Nashik city and is around 5 km from the main city area."
+    },
+    {
+      "keywords": ["courses", "programs", "degree"],
+      "answer": "The institute offers B.Tech, M.Tech and Ph.D programs in various engineering disciplines."
+    },
+    {
+      "keywords": ["degree", "certificate"],
+      "answer": "Degrees are awarded by Savitribai Phule Pune University with the institute name mentioned."
+    },
+    {
+      "keywords": ["fees", "fee structure"],
+      "answer": "You can check fee details here: https://engg.kkwagh.edu.in/shikshan_shulka_samiti"
+    },
+    {
+      "keywords": ["contact", "phone", "number", "admission"],
+      "answer": "You can contact the college at +912532221319 or +917888045550 for admission queries."
+    },
+    {
+      "keywords": ["scholarship", "concession"],
+      "answer": "Scholarships are available for SC/ST, OBC, EBC and other eligible students as per government rules."
+    },
+    {
+      "keywords": ["medical", "doctor", "ambulance"],
+      "answer": "Yes, the campus has a full-time doctor and ambulance facility."
+    },
+    {
+      "keywords": ["principal"],
+      "answer": "The Principal of KKWIEER is Dr. K.N. Nandurkar."
+    },
+    {
+      "keywords": ["hod", "computer"],
+      "answer": "The HOD of Computer Engineering is Prof. S.M. Kamlapur."
+    },
+    {
+      "keywords": ["dean"],
+      "answer": "The Dean of KKWIEER is Dr. S.Y. Kute."
+    },
+    {
+      "keywords": ["library"],
+      "answer": "The library is free for students and offers a wide collection of books and study materials."
+    },
+    {
+      "keywords": ["gym", "sports"],
+      "answer": "The gym is available from 6 AM to 9 AM and 3 PM to 6 PM. Sports like chess, carrom, volleyball and basketball are available."
+    },
+    {
+      "keywords": ["placement", "job"],
+      "answer": "The college provides good placement opportunities with training and support for students."
+    },
+    {
+      "keywords": ["hostel"],
+      "answer": "Hostel facilities are available for students with necessary amenities."
+    },
+    {
+      "keywords": ["canteen", "food"],
+      "answer": "The campus has a canteen providing food and refreshments for students."
+    },
+    {
+      "keywords": ["parking"],
+      "answer": "There are multiple parking areas available for students including separate areas for boys and girls."
+    },
+    {
+      "keywords": ["bank"],
+      "answer": "A bank facility is available inside the campus near A-Wing exit."
+    },
+    {
+      "keywords": ["idea lab", "lab"],
+      "answer": "IDEA Lab and workshops are available with permission for practical learning and projects."
+    },
+    {
+      "keywords": ["academic year", "semester"],
+      "answer": "The academic year consists of two semesters from June to April."
+    },
+    {
+      "keywords": ["complaint", "suggestion"],
+      "answer": "You can raise complaints through your class coordinator or suggestion box."
+    },
+    {
+      "keywords": ["where sit", "free time"],
+      "answer": "Students can sit in common rooms, benches near the ground, or in the canteen during free time."
+    },
+    {
+      "keywords": ["ai", "artificial intelligence"],
+      "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines that can think, learn and make decisions."
+    },
+    {
+      "keywords": ["engineering", "why engineering"],
+      "answer": "Engineering is a field that focuses on solving real-world problems using science and technology."
+    }
+  ]
+}
